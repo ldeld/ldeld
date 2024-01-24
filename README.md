@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
-<h3 align="center">A Ruby on Rails developer based in Barcelona, Spain</h3>
-
-- 🔭 I’m currently working for [CapSens](https://www.capsens.eu/en)
-
-- 🌱 I’m currently learning **Django**
+<h3 align="center">A Web developer based in Barcelona, Spain</h3>
 
 - 📫 How to reach me **l.delcastillo.97@gmail.com**
 
